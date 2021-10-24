@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "food-delivery-gojr",
+  "private_key_id": "e8a8c18cc3e727d12d499267e77c521070bd2577",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCq5h+aJU4h89AU\nKH30MDvXtuEM/tRAeZjRKTAZdrO2xVrI1b7bN3R9m2ZfreqL9P0jFK2MPYmLUbS1\n8JJhSJ2jRyJf7KNo7GyQ60dqLSyGzIr+YLOxXqD0bsXQzpyMketjuzXIllbJUuTI\nS/NBiDyXkzXSfq5tI5SXMKNe85TmE2jmkhFFhaaz2c/RMj5JiMq8ZtOIxNclzUT/\nXM7ntf8Up3Sx2VrKJnSYnUs1pPyyLNHGCDaelHAqeATmsmgCpUsNZAhqRSiVz98d\n+c4k5Q78GPaaZr4O1Qo66avVom1RvovzOYQBnWB4NBhfqvAMPUREAXfVqGiKoL/d\nQeNgsrBLAgMBAAECggEAEISusEkDzM9SoOgrCHOzDQ4doZJt9I9sQGdBQWzSQQvB\nUyEp0emBxnRDSGM4hO+Ymg/xGFmIVmF+3IkUtPd+WR5SicAHKWiUs8sx+2bDY4IY\nuy6gn7e8SfP9Bco6onGmNV0OfUVevRXYjC2fJQnkhWgSrzZUaLMkNRrb550WmshD\nxaIBg4Bjw2TCh3K+2ddSqyuTmpEXcQOKzU/+c/rfPR4hI+u4VqsNbvoK/KxI4zDD\nuX3DI2qczkXIilUWqE3bYTLc0iatSAMPP2DVr9SdG/cYkUwmSEbJPCnb7N3bIvp0\nW5HmwWby2n+XtLf6Np1R3Y8sVvdUK+tEbsIqtHQ8mQKBgQDruZoqKEGQEwX/KHB8\nHP83vv5q7UzARxHOdcB+R8Ghq7IapWJMphFh/F3r78qlc3Ncrk/z9T+iLXuux8QV\n+uIcKYcwKO9KY/qRUg87mA0NQoAoibwkaPdhJMuhJ5occ1Rp501yc+bn2A8EYi+3\nu2pUxDl3zR1lkPyC6Vgn/rJ/+QKBgQC5mR/I/FUxXt8X9eph3WaJAgul+DXfDfn4\nWheqsAap1SF5FZV/FM90xhjHVEUClFrP6XJcHWOWSF+pEKjj6FccGHOBgcE6u/QB\n+66OPUwyw4KYqa8K3p+/Esy0q6gr+lYyDKOdMMX/+Q6UZE5sm3JEWjcZ6aPXGJ79\nhcgrgWeLYwKBgQCQFrfBpTHOW5KC0blQZHktHjZuLfeIYOjlhtzPVBVsOYN4/jcE\nG07s0lKm8cCxOcz+jh6ZRQRMofjEcZ/Ov7iO9mOIcL00f8CeK8bb6qmvvUKRhP/Y\nUcFFRDSkoYx2b5jd02Fn4Kj4dv1W9J2udYUdo4RtUpfxiZqQewpECFAcIQKBgQCq\n25gzQnh7FsdyG2VF6rf18PggNjwBt7AjPW0EKUA5IIfMHF6futywt50gAyf0k/Z1\n6Ibq3fNL6hyGW1vfU4i9yJSs6HKmS1j6amPrdeqr4Ohc+fi2nPOaxwfEWzJaKf8n\n3BLTJo9gcjtFyIGZ4hBzdEm9hSTbY0MaSQpZYqub2QKBgFYIZgooEusabr9lYbpd\n3wyENoUf3FWWLB7BfOFIuEpmkJyRHcIcSEw/NliASbRfh1jvP9buhNoDqg6xABXd\npwnxdKuN3A30KWoVRz+LIdKQvYrpknM00DGsIC+nVmKxYWC7Wqsr+49hPKt6nKkS\nOIcgy/mWwju0OYb9n5iihzlJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "food-delivery@food-delivery-gojr.iam.gserviceaccount.com",
+  "client_id": "106385828403027667700",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/food-delivery%40food-delivery-gojr.iam.gserviceaccount.com"
+}
