@@ -4,7 +4,7 @@ import { createTheme, ThemeProvider, Typography, Grid} from '@mui/material'
 import { Box} from "@mui/system";  
 import Card from "./Components/CardCustom"
 
-// const API_ENDPOINT = "localhost:3001";
+const API_ENDPOINT = process.env.NODE_ENV==='production'? "https://dialogflowfood.herokuapp.com/": "http://localhost:3001/";
 const theme=createTheme({
   palette: {
     primary: {
@@ -15,7 +15,7 @@ const theme=createTheme({
 function App() {
   const [intentList, setintentList] = useState([]);
   useEffect( ()=>{
-   axios.get(`http://localhost:3001/get_intent_list`)
+   axios.get(`${API_ENDPOINT}get_intent_list`)
     .then(res => {
       setintentList(res.data[0])
     })
